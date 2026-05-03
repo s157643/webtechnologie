@@ -1,0 +1,19 @@
+/* Reset marges */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+/* --- RESET --- */
+/* Dit verwijdert standaard marges zodat je website overal hetzelfde oogt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
