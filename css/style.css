@@ -1,2 +1,26 @@
 /* --- EIGEN STYLING --- */
 /* Voeg hier later je eigen kleuren en extra marges toe */
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    /* Ruimte tussen de kaart en de tekst */
+    flex-wrap: wrap;
+    /* Zorgt dat het op mobiel onder elkaar springt */
+}
+
+.profile-card {
+    background-color: #f8f9fa;
+    /* Of donker als je de dark mode look wilt */
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+}
+
+.profile-img {
+    width: 100%;
+    border-radius: 15px;
+}
