@@ -24,3 +24,11 @@ main {
     width: 100%;
     border-radius: 15px;
 }
+
+
+aside #map {
+    height: 400px;
+    /* Iets meer ruimte voor de kaart */
+    width: 100%;
+    /* Zorgt dat hij de volledige breedte vult */
+}
