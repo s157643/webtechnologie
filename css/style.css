@@ -31,4 +31,6 @@ aside #map {
     /* Iets meer ruimte voor de kaart */
     width: 100%;
     /* Zorgt dat hij de volledige breedte vult */
+    background-color: #eee;
+    /* Handig om te zien of de div geladen wordt */
 }
