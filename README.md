@@ -19,3 +19,6 @@ De reden dat je zo snel door je 100GB heen bent, is waarschijnlijk die profile-i
 •	Oplossing: Verklein de foto naar ongeveer 200KB met een tool zoals TinyPNG voordat je hem opnieuw uploadt naar je nieuwe host.
 Welke van deze drie opties wil je proberen om je site weer online te krijgen?
 
+Opdracht 4
+hier is de nieuwe link naar mijn portfolio. Ik heb een tweede Netlify-account aangemaakt omdat mijn eerste account over de gratis tijdlimiet (build minutes) heen was door het vele testen. Om er zeker van te zijn dat mijn website, de kaart en het contactformulier altijd goed werken voor de beoordeling, heb ik deze nieuwe versie online gezet.
+abel-yemane-v2.netlify.app #  met  de  form
