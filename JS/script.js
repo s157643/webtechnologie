@@ -6,6 +6,6 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Maak één marker aan en voeg de gewenste tekst toe
-let marker = L.marker([51.5, -0.09]).addTo(map);
+let marker = L.marker([51.21898, 4.46073]).addTo(map);
 
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+marker.bindPopup("<b>Hello world!</b><br>gemeente Deurne.").openPopup();
